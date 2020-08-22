@@ -6,11 +6,11 @@
 
 - 双指针
 
-  https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/    leetcode26：删除排序数组中的重复项
+  https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/    leetcode26：删除排序数组中的重复项  2020/08/22
   
-  https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/ leetcode80：删除排序数组中的重复项 II
+  https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/ leetcode80：删除排序数组中的重复项 II  2020/08/22
   
-  https://leetcode-cn.com/problems/container-with-most-water/   leetcode11：盛最多水的容器
+  https://leetcode-cn.com/problems/container-with-most-water/   leetcode11：盛最多水的容器  2020/08/22
   
 
 - 排序
