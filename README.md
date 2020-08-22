@@ -4,7 +4,7 @@
 
 - 二叉树
 
--双指针
+- 双指针
 
   https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/    leetcode26：删除排序数组中的重复项
   
