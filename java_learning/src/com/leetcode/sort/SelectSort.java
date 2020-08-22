@@ -16,16 +16,16 @@ public class SelectSort {
                 }
             }
             if (minIndex != i) {
-                int temp = arr[i];
-                arr[i] = arr[minIndex];
-                arr[minIndex] = temp;
+                int temp = arr[minIndex];
+                arr[minIndex] = arr[i];
+                arr[i] = temp;
             }
         }
     }
     public static void main(String[] args) {
         int[] arr = {5,7,9,4,2,6};
         System.out.println("before sort: " + Arrays.toString(arr));
-        BubbleSort.sort(arr);
+        SelectSort.sort(arr);
         System.out.println("after sort: " + Arrays.toString(arr));
     }
 }
