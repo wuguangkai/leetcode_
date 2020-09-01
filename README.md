@@ -8,11 +8,11 @@
 
   2020/08/22
 
-  https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/    leetcode26：删除排序数组中的重复项
+  [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
   
-  https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/ leetcode80：删除排序数组中的重复项 II
+  [删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)
   
-  https://leetcode-cn.com/problems/container-with-most-water/   leetcode11：盛最多水的容器
+  [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
   
   [移动零](https://leetcode-cn.com/problems/move-zeroes/)
   
