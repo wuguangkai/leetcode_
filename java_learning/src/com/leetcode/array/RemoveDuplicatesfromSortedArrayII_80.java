@@ -1,4 +1,4 @@
-package com.leetcode.doublepointer;
+package com.leetcode.array;
 
 public class RemoveDuplicatesfromSortedArrayII_80 {
     /*

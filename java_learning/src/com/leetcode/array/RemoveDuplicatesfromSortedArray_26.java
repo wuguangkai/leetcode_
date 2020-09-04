@@ -1,6 +1,4 @@
-package com.leetcode.doublepointer;
-
-import java.util.Arrays;
+package com.leetcode.array;
 
 public class RemoveDuplicatesfromSortedArray_26 {
     public int removeDuplicates(int[] nums) {

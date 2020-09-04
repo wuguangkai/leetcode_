@@ -1,4 +1,4 @@
-package com.leetcode.doublepointer;
+package com.leetcode.array;
 
 public class ContainerWithMostWater_11 {
     // 暴力法 时间复杂度O(n^2) 空间复杂度O(1)
